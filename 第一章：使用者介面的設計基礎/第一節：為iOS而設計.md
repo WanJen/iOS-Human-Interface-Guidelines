@@ -10,7 +10,7 @@ iOS具體呈現了下列的主題：
 
 具有層次的視覺呈現及生動的互動操作，賦予使用者介面活力。提高了使用者操作時的樂趣，也增加使用者對於介面的理解。
 
-![氣象app](https://github.com/WanJen/iOS-Human-Interface-Guidelines/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E7%9A%84%E8%A8%AD%E8%A8%88%E5%9F%BA%E7%A4%8E/images/weather_app_7_2x.png)
+![氣象app](https://github.com/WanJen/iOS-Human-Interface-Guidelines/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2%E7%9A%84%E8%A8%AD%E8%A8%88%E5%9F%BA%E7%A4%8E/images/weather_app_7_2x_small.png)
 
 無論你是為一個既有的App重新設計，還是全新創作一個新的App，請考慮用這樣的流程來完成工作：
 
